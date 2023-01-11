@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @damicharles
-- 👀 I’m interested in design and technology
+- 👋 Hi, I’m Ayanwoye Charles Damilola
+- 👀 I’m interested in Product Design, Entrepreneurship and Software Engineering
 - 🌱 I’m currently learning Software Engineering at Semicolon
 - 💞️ I’m looking to collaborate on any project to aid my learning
 - 📫 How to reach me, via my mail c.ayanwoye0@gmail.com
