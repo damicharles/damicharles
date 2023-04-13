@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayanwoye Charles Damilola
+- 👋 Hi, I’m Charles (Damilola) Ayanwoye
 - 👀 I’m interested in Product Design, Entrepreneurship and Software Engineering
 - 🌱 I’m currently learning Software Engineering at Semicolon
 - 💞️ I’m looking to collaborate on any project to aid my learning
